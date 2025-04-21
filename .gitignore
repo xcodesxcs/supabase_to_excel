@@ -1,0 +1,4 @@
+.env
+participants_rows.csv
+/events_output
+/schools_output
